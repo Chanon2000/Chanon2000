@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 - **Backend**: Node.js (Express), .NET Core, Django, Go (Gin)
 - **Database**: MongoDB, MySQL, PostgreSQL, Redis, Elasticsearch
 - **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Nginx, CI/CD with GitHub Actions
-- **Other Tools**: Figma, Git, Linux, Stripe API, Mapbox API, Firebase
+- **Other Tools**: Figma, Git, Linux, Firebase
 
 ---
 
