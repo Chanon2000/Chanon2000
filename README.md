@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with experience in building scalable and high-performance applications using modern web technologies.
 
-🌐 **Portfolio**: [www.chanonmanojit.com](https://www.chanonmanojit.com)
+🌐 **My Personal Website**: [www.chanonmanojit.com](https://www.chanonmanojit.com)
 
 ---
 
