@@ -25,6 +25,8 @@ I started my journey in web development at the age of 20, working with PHP, HTML
 - **Email**: [Chanon.manojit@hotmail.com](mailto:Chanon.manojit@hotmail.com)
 - **GitHub**: [@chanon2000](https://github.com/chanon2000)
 - **Website**: [www.chanonmanojit.com](https://www.chanonmanojit.com)
+- **facebook**: [www.facebook.com/chanon.manojit](https://www.facebook.com/chanon.manojit)
+- **Linkedin**: [www.linkedin.com/in/chanon-manojit-253238163/](https://www.linkedin.com/in/chanon-manojit-253238163/)
 
 ---
 
