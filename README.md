@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 
 ## 🔧 Tech Stack & Tools
 
-- **Frontend**: Angular, Vue.js, HTML, CSS, Bootstrap, JavaScript, TypeScript
-- **Backend**: Node.js (Express), .NET Core, Django, Go (Gin)
-- **Database**: MongoDB, MySQL, PostgreSQL, Redis, Elasticsearch
-- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Nginx, CI/CD with GitHub Actions
-- **Other Tools**: Figma, Git, Linux, Firebase
+- **Frameworks & Libraries**: Node.js + Express, Angular, .NET Core, Gin, Vue, Django, Flutter
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, SQL Server
+- **DevOps & Tools**: Docker, Kubernetes, AWS, GCP, Git, Jenkins, Github Action, Nginx
+- **Programming Languages**: Golang, Python, JavaScript, Typescript, C#
 
 ---
 
