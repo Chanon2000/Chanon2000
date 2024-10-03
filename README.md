@@ -1,4 +1,4 @@
-# Hi there, I'm Chanon Manojit 👋
+# Hi there, I'm Mick 👋
 
 Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with experience in building scalable and high-performance applications using modern web technologies.
 
