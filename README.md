@@ -13,13 +13,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 - **DevOps & Tools**: Docker, Kubernetes, AWS, GCP, Git, Jenkins, Github Action, Nginx
 - **Programming Languages**: Golang, Python, JavaScript, Typescript, C#
 
----
-
-## 👨‍💻 About Me
-
-I started my journey in web development at the age of 20, working with PHP, HTML, and Bootstrap, and quickly progressed to more advanced frameworks and systems. I have worked in multiple roles as a full-stack developer, gaining experience in various industries and system architectures.
-
-
 ## 📫 How to reach me:
 
 - **Email**: [Chanon.manojit@hotmail.com](mailto:Chanon.manojit@hotmail.com)
