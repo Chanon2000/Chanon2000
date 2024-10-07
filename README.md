@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 - **DevOps & Tools**: Docker, Kubernetes, AWS, GCP, Git, Jenkins, Github Action, Nginx
 - **Programming Languages**: Golang, Python, JavaScript, Typescript, C#
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 📫 How to reach me:
 
 - **Email**: [Chanon.manojit@hotmail.com](mailto:Chanon.manojit@hotmail.com)
