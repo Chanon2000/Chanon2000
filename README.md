@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 - **DevOps & Tools**: Docker, Kubernetes, AWS, GCP, Git, Jenkins, Github Action, Nginx
 - **Programming Languages**: Golang, Python, JavaScript, Typescript, C#
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,aws,cs,cloudflare,flutter,dart,django,docker,dotnet,elasticsearch,express,figma,firebase,go,kubernetes,linux,MongoDB,nginx,nodejs,notion,postgres,postman,py,redis,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,vue,aws,cs,cloudflare,flutter,dart,django,docker,dotnet,elasticsearch,express,figma,firebase,go,kubernetes,linux,Mongodb,mysql,nginx,nodejs,notion,postgres,postman,py,redis,sass)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 
