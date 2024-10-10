@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 
 🌐 **My Personal Website**: [www.chanonmanojit.com](https://www.chanonmanojit.com)
 
----
-
 ## 🔧 Tech Stack & Tools
 
 - **Frameworks & Libraries**: Node.js + Express, Angular, .NET Core, Gin, Vue, Django, Flutter
