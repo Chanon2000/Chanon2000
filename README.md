@@ -17,6 +17,5 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** with e
 
 - **Email**: [Chanon.manojit@hotmail.com](mailto:Chanon.manojit@hotmail.com)
 - **Website**: [www.chanonmanojit.com](https://www.chanonmanojit.com)
-- **facebook**: [www.facebook.com/chanon.manojit](https://www.facebook.com/chanon.manojit)
 - **Linkedin**: [www.linkedin.com/in/chanon-manojit-253238163/](https://www.linkedin.com/in/chanon-manojit-253238163/)
 
